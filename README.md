@@ -65,9 +65,11 @@
 ## 🏆 Achievements
 
 
-## 🏆 Achievements
-
-- 🦈 [Pull Shark Achievement](https://github.com/users/realvivekrana/achievements/pull-shark)
+<p align="center">
+  <a href="https://github.com/users/realvivekrana/achievements/pull-shark">
+    <img src="https://img.shields.io/badge/GitHub-Pull%20Shark-blue?style=for-the-badge&logo=github" />
+  </a>
+</p>
 <!-- ================= CONNECT ================= -->
 
 ## 🌐 Connect with me
