@@ -65,9 +65,9 @@
 ## 🏆 Achievements
 
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=realvivekrana&theme=flat&no-frame=true&margin-w=10" />
-</p>
+## 🏆 Achievements
+
+- 🦈 [Pull Shark Achievement](https://github.com/users/realvivekrana/achievements/pull-shark)
 <!-- ================= CONNECT ================= -->
 
 ## 🌐 Connect with me
