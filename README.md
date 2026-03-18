@@ -24,7 +24,7 @@
 * 💻 Frontend Developer (React.js)
 * 🔥 Passionate about building modern UI
 * 📚 Currently learning advanced React & performance optimization
-* 🌐 Portfolio: **Add your link here**
+* 🌐 Portfolio: **https://realvivekrana.github.io/-Vivek-Rana-MERN-Full-Stack-Developer-Portfolio/**
 * ⚡ Fun fact: I love clean UI & smooth animations
 
 ---
