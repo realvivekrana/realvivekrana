@@ -66,9 +66,8 @@
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=realvivekrana" />
+  <img src="https://github-profile-trophy.vercel.app/?username=realvivekrana&theme=flat&no-frame=true&margin-w=10" />
 </p>
-
 <!-- ================= CONNECT ================= -->
 
 ## 🌐 Connect with me
