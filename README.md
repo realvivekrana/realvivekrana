@@ -1,10 +1,10 @@
 <!-- ================= HEADER ================= -->
 
 <h1 align="center">Hi 👋, I'm Vivek Rana</h1>
-<h3 align="center">🚀 Frontend Developer | React Developer</h3>
+<h3 align="center">🚀 Frontend Developer | MERN Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+Lover;Open+Source+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+Developer;MERN+Stack+Developer;Building+Scalable+Web+Apps;Always+Learning+New+Things&center=true&width=500&height=50">
 </p>
 
 ---
@@ -12,20 +12,44 @@
 <!-- ================= PROFILE VIEWS ================= -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=realvivekrana&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=realvivekrana&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 <!-- ================= ABOUT ================= -->
 
-## 😎 I'M VIVEK!
+## 😎 About Me
 
-* 💻 Frontend Developer (React.js)
-* 🔥 Passionate about building modern UI
-* 📚 Currently learning advanced React & performance optimization
-* 🌐 Portfolio: **https://realvivekrana.github.io/-Vivek-Rana-MERN-Full-Stack-Developer-Portfolio/**
-* ⚡ Fun fact: I love clean UI & smooth animations
+* 💻 Frontend Developer Intern with hands-on experience in **React.js & scalable UI development**
+* 🚀 Built and deployed **5+ real-world web applications**
+* ⚡ Developed **20+ reusable components** improving development speed by 30%
+* 🔗 Integrated **15+ APIs** for dynamic data rendering
+* 🎯 Passionate about performance optimization, clean UI & responsive design
+* 🌐 Portfolio: https://realvivekrana.github.io/portfolio-vivek/
+
+---
+
+<!-- ================= EXPERIENCE ================= -->
+
+## 💼 Work Experience
+
+### 🚀 Frontend Developer Intern — Athenura (Feb 2026 - Present)
+
+* Built and deployed **5 responsive web applications using React.js**
+* Developed **20+ reusable UI components** (↓ dev time by 30%)
+* Integrated **15 APIs** with backend team (↑ data speed by 25%)
+* Improved UI/UX → **40% increase in user engagement**
+* Fixed **50+ UI bugs** with 99% resolution rate
+
+---
+
+### 🎓 MERN Stack Developer Trainee — CETPA Infotech (2025)
+
+* Completed MERN training with **95% performance**
+* Built **5 full-stack applications** with APIs & database
+* Improved performance → **25% faster load time**
+* Worked with **MongoDB, Node.js, Express.js**
 
 ---
 
@@ -34,8 +58,36 @@
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,bootstrap,git,github,vscode" />
 </p>
+
+---
+
+<!-- ================= PROJECTS ================= -->
+
+## 📌 Featured Projects
+
+### 🤖 ChatMate AI Assistant
+
+* Interactive AI chat UI with dynamic rendering
+* Reduced response time by **40%**
+* Improved chat experience by **25%**
+
+---
+
+### 🌦 Sunny Skies Weather App
+
+* Real-time weather data using APIs
+* Clean UI with **95% user satisfaction**
+* Increased engagement by **25%**
+
+---
+
+### 📊 AdminSuite Pro Dashboard
+
+* Scalable admin dashboard with analytics
+* Built reusable components (↑ productivity 30%)
+* Data visualization for better decision-making
 
 ---
 
@@ -50,7 +102,7 @@
 
 ---
 
-<!-- ================= TOP LANG ================= -->
+<!-- ================= LANGUAGES ================= -->
 
 ## 🔥 Most Used Languages
 
@@ -60,26 +112,41 @@
 
 ---
 
-<!-- ================= TROPHY ================= -->
+<!-- ================= ACHIEVEMENTS ================= -->
 
 ## 🏆 Achievements
 
+* 🦈 [Pull Shark Achievement](https://github.com/users/realvivekrana/achievements/pull-shark)
 
-<p align="center">
-  <a href="https://github.com/users/realvivekrana/achievements/pull-shark">
-    <img src="https://img.shields.io/badge/GitHub-Pull%20Shark-blue?style=for-the-badge&logo=github" />
-  </a>
-</p>
+---
+
 <!-- ================= CONNECT ================= -->
 
 ## 🌐 Connect with me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/mrvivekrana/">
+    <img src="https://img.shields.io/badge/LinkedIn-Vivek%20Rana-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
+
+  <a href="mailto:vivekranaworks@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail" />
+  </a>
+
+  <a href="https://www.instagram.com/mrvivaanrana/">
+    <img src="https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram" />
+  </a>
+
+  <a href="https://www.facebook.com/mrvivaanrana/">
+    <img src="https://img.shields.io/badge/Facebook-Profile-blue?style=for-the-badge&logo=facebook" />
+  </a>
+
+  <a href="https://x.com/mrvivaanrana">
+    <img src="https://img.shields.io/badge/X-Twitter-black?style=for-the-badge&logo=twitter" />
+  </a>
+
+  <a href="https://wa.me/919304718075">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp" />
   </a>
 </p>
 
