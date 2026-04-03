@@ -26,7 +26,7 @@
 * ⚡ Developed **20+ reusable components** improving development speed by 30%
 * 🔗 Integrated **15+ APIs** for dynamic data rendering
 * 🎯 Passionate about performance optimization, clean UI & responsive design
-* 🌐 Portfolio: https://realvivekrana.github.io/portfolio-vivek/
+* 🌐 Portfolio: [(https://portfolio-vivek-blue.vercel.app/)](https://portfolio-vivek-blue.vercel.app/)
 
 ---
 
