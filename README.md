@@ -92,8 +92,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=realvivekrana&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=realvivekrana&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=realvivekrana&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://streak-stats.demolab.com?user=realvivekrana&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
@@ -103,7 +103,7 @@
 ## 🔥 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realvivekrana&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realvivekrana&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=1800" />
 </p>
 
 ---
@@ -143,5 +143,5 @@
 <!-- ================= GIF ================= -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
