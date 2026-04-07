@@ -205,24 +205,17 @@ const vivek = {
 
 <div align="center">
 
-### 📊 Profile Statistics
+### 📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=realvivekrana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=realvivekrana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=realvivekrana&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Streak" height="180" />
-</p>
+### 🔥 Streak Stats
+<img src="https://streak-stats.demolab.com?user=realvivekrana&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Streak" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realvivekrana&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages" />
-</p>
+### 🧠 Top Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realvivekrana&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=realvivekrana&theme=tokyo-night&hide_border=true&area=true&cache_seconds=86400" alt="Contribution Graph" width="95%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=realvivekrana&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=7&margin-w=5&cache_seconds=86400" alt="GitHub Trophies" />
-</p>
+### 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=realvivekrana&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
 
 </div>
 
