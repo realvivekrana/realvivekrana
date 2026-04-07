@@ -224,7 +224,7 @@ const vivek = {
 
 <br>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=realvivekrana&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=10" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realvivekrana&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8&card_width=445" alt="Top Languages" />
 
 <br><br>
 
