@@ -204,17 +204,34 @@ const vivek = {
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=realvivekrana&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=realvivekrana&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
+  
+<a href="https://github.com/realvivekrana">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=realvivekrana&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+</a>
+<a href="https://github.com/realvivekrana">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=realvivekrana&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=FFFFFF" alt="GitHub Streak"/>
+</a>
+
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realvivekrana&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=realvivekrana&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" />
+  
+<a href="https://github.com/realvivekrana">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realvivekrana&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
+</a>
+
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=realvivekrana&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=realvivekrana&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF)
+
+</div>
+
+<div align="center">
+  
+<img src="https://github-profile-trophy.vercel.app/?username=realvivekrana&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies"/>
+
 </div>
 
 ---
