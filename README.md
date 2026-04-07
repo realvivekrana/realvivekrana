@@ -204,27 +204,33 @@ const vivek = {
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> GitHub Stats
 
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=realvivekrana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=realvivekrana&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
-</div>
+### 📊 Profile Statistics
 
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realvivekrana&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+<table>
+<tr>
+<td width="50%">
 
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=realvivekrana&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&line_height=27" alt="Vivek's GitHub Stats" />
 
-<div align="center">
-  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=realvivekrana&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%"/>
+</td>
+<td width="50%">
 
-</div>
+<img src="https://streak-stats.demolab.com?user=realvivekrana&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Vivek's GitHub Streak" />
 
-<div align="center">
-  
-<img src="https://github-profile-trophy.vercel.app/?username=realvivekrana&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/>
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realvivekrana&layout=compact&theme=algolia&hide_border=true&langs_count=10" alt="Top Languages" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=realvivekrana&bg_color=050f2c&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=realvivekrana&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
 
 </div>
 
