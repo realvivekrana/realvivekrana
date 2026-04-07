@@ -211,12 +211,12 @@ const vivek = {
 <tr>
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=realvivekrana&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=realvivekrana&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
 
 </td>
 <td width="50%" align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=realvivekrana&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=C9D1D9" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=realvivekrana&theme=dark&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=C9D1D9" alt="GitHub Streak" />
 
 </td>
 </tr>
@@ -224,7 +224,7 @@ const vivek = {
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realvivekrana&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8&card_width=445" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realvivekrana&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=6&card_width=445&cache_seconds=1800" alt="Top Languages" />
 
 <br><br>
 
