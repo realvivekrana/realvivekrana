@@ -207,32 +207,22 @@ const vivek = {
 
 ### 📊 Profile Statistics
 
-<table>
-<tr>
-<td width="50%" align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=realvivekrana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=realvivekrana&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Streak" height="180" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=realvivekrana&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realvivekrana&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages" />
+</p>
 
-</td>
-<td width="50%" align="center">
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=realvivekrana&theme=tokyo-night&hide_border=true&area=true&cache_seconds=86400" alt="Contribution Graph" width="95%" />
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=realvivekrana&theme=dark&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=C9D1D9" alt="GitHub Streak" />
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realvivekrana&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=6&card_width=445&cache_seconds=1800" alt="Top Languages" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=realvivekrana&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&title_color=00d9ff" alt="Contribution Graph" width="100%" />
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=realvivekrana&theme=discord&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trophies" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=realvivekrana&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=7&margin-w=5&cache_seconds=86400" alt="GitHub Trophies" />
+</p>
 
 </div>
 
