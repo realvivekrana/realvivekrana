@@ -639,7 +639,7 @@ and growing as a developer!
 
 <br>
 
-<sub>Made with ❤️ by Vivek Rana | © 2026</sub>
+<sub>Made with ❤️ by Vivek Ran | © 2026</sub>
 
 <br><br>
 
