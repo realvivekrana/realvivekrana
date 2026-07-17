@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Vivek%20Rana&fontSize=48&fontColor=ffffff&animation=fadeIn" />
 
-# Hi 👋 I'm Vivek Kumar Rana
+# Hi 👋 I'm Vivek Rana
 
 ### Frontend Developer | React Developer | MERN Stack Developer
 
