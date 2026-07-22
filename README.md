@@ -1,30 +1,26 @@
+```md
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Vivek%20Rana&fontSize=48&fontColor=ffffff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Vivek%20Kumar%20Rana&fontSize=48&fontColor=ffffff&animation=fadeIn" />
 
 # Hi 👋 I'm Vivek Kumar Rana
 
-### Frontend Developer | React Developer | MERN Stack Developer
+### MERN Stack Developer | Full Stack Developer | React & Node.js Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00D9FF&center=true&width=600&lines=Frontend+Developer;React+Developer;MERN+Stack+Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00D9FF&center=true&width=700&lines=MERN+Stack+Developer;Full+Stack+Developer;React+Developer;Node.js+Developer" />
 
 <p>
 
 <a href="https://portfolio-vivek-blue.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"/>
-
 </a>
 
 <a href="https://www.linkedin.com/in/mrvivekrana/">
-
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
-
 </a>
 
 <a href="mailto:vivekranaworks@gmail.com">
-
 <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail"/>
-
 </a>
 
 </p>
@@ -37,13 +33,14 @@
 
 # 💫 About Me
 
-Frontend Developer Intern passionate about building clean, responsive and scalable web applications.
+Passionate **MERN Stack Developer** focused on building scalable, responsive, and production-ready web applications.
 
-- 💼 Frontend Developer Intern at **Athenura**
+- 💻 MERN Stack Developer
 - 🎓 MCA Student (AI & ML)
-- 🌱 Learning **TypeScript** & **Next.js**
-- 💻 Skilled in React, JavaScript and MERN Stack
-- 🚀 Open to Internship & Full-Time Opportunities
+- 🌱 Currently learning **TypeScript**, **Next.js**, **Docker**, and **AWS**
+- 🚀 Building Full Stack applications using React.js, Node.js, Express.js & MongoDB
+- 📚 Improving Data Structures & Algorithms
+- 💼 Open to Full-Time, Internship & Freelance Opportunities
 
 ---
 
@@ -70,64 +67,39 @@ Frontend Developer Intern passionate about building clean, responsive and scalab
 ### Currently Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=typescript,nextjs"/>
+<img src="https://skillicons.dev/icons?i=typescript,nextjs,docker,aws"/>
 </p>
 
 ---
-# 🚀 Featured Projects
 
-## 🤖 ChatMate AI
-AI-powered chat application with a clean UI and real-time responses.
+# 🚀 Featured Project
 
-**Tech Stack:** React • JavaScript • API Integration
+## 🛒 Full Stack E-Commerce Platform
 
-🔗 Live Demo: https://chatmate-ai-assistant.vercel.app
+A production-ready MERN Stack E-Commerce application with secure authentication, product management, shopping cart, order management, and an admin dashboard.
 
-🔗 GitHub: https://github.com/realvivekrana/chatmate-ai-assistant
+**Tech Stack:** React.js • Node.js • Express.js • MongoDB • JWT • Tailwind CSS
 
-### Features
-- Responsive UI
-- AI Chat Interface
-- Real-time Responses
-- Modern React Architecture
+🔗 **Live Demo:** Coming Soon
 
----
+🔗 **GitHub:** https://github.com/realvivekrana/fullstack-ecommerce-app
 
-## 🌦 Sunny Skies
+### ✨ Features
 
-Weather application that provides real-time weather updates.
-
-**Tech Stack:** React • CSS • Weather API
-
-🔗 Live Demo: https://sunny-skies-weather.vercel.app
-
-🔗 GitHub: https://github.com/realvivekrana/sunny-skies
-
-### Features
-
-- Search Any City
-- Live Weather Data
-- Responsive Design
-- Fast Loading
-
----
-
-## 📊 AdminSuite Dashboard
-
-Modern Admin Dashboard built using MERN technologies.
-
-**Tech Stack:** React • Node.js • Express • MongoDB
-
-🔗 GitHub:
-
-https://github.com/realvivekrana/adminsuite-pro-react-dashboard
-
-### Features
-
-- Dashboard UI
-- Authentication
-- CRUD Operations
-- Responsive Layout
+- 🔐 JWT Authentication & Authorization
+- 🛍️ Product Catalog
+- 🔍 Product Search & Filtering
+- ❤️ Wishlist
+- 🛒 Shopping Cart
+- 💳 Checkout System
+- 📦 Order Management
+- 👤 User Profile
+- 🛠️ Admin Dashboard
+- ➕ Product CRUD Operations
+- 📱 Fully Responsive UI
+- ⚡ REST API Integration
+- 🗄️ MongoDB Database
+- 🚀 Clean & Scalable Architecture
 
 ---
 
@@ -139,14 +111,14 @@ https://github.com/realvivekrana/adminsuite-pro-react-dashboard
 
 **Feb 2026 – Present**
 
-Responsibilities:
+### Responsibilities
 
-- Developing responsive React applications.
-- Building reusable UI components.
-- Integrating REST APIs.
-- Fixing UI issues.
-- Collaborating with the development team.
-- Writing clean and maintainable code.
+- Developing scalable React applications
+- Building reusable UI components
+- Integrating REST APIs
+- Collaborating with developers
+- Fixing UI bugs and improving performance
+- Writing clean and maintainable code
 
 ---
 
@@ -164,6 +136,7 @@ Successfully completed MERN Stack Training with hands-on projects covering:
 - Git & GitHub
 
 ---
+
 # 📊 GitHub Stats
 
 <div align="center">
@@ -210,21 +183,25 @@ Successfully completed MERN Stack Training with hands-on projects covering:
 
 # 💡 Currently Working On
 
-- 🚀 MERN Stack Projects
+- 🛒 Full Stack E-Commerce Platform
 - ⚛️ Advanced React
 - 📘 TypeScript
 - ⚡ Next.js
+- 🐳 Docker
+- ☁️ AWS
 - 🧩 Data Structures & Algorithms
 
 ---
 
-# 🤝 Open To
+# 🎯 Looking For
 
-- Frontend Developer Internship
-- React.js Developer Role
-- MERN Stack Developer Role
-- Freelance Projects
+- MERN Stack Developer
+- Full Stack Developer
+- Software Engineer
+- React.js Developer
+- Node.js Developer
 - Open Source Contributions
+- Freelance Projects
 
 ---
 
@@ -237,3 +214,4 @@ If you like my work, consider giving a ⭐ to my repositories.
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
 
 </div>
+```
