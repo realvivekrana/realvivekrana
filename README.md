@@ -1,176 +1,139 @@
+# (Professional GitHub Profile README)
+
+> Replace your current README with the content below.
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Vivek%20Kumar%20Rana&fontSize=48&fontColor=ffffff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Vivek%20Kumar%20Rana&fontSize=46&fontColor=ffffff&animation=fadeIn"/>
 
 # Hi 👋 I'm Vivek Kumar Rana
 
-### MERN Stack Developer | Full Stack Developer | React & Node.js Developer
+### MERN Stack Developer • Full Stack Developer • React • Node.js
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00D9FF&center=true&width=700&lines=MERN+Stack+Developer;Full+Stack+Developer;React+Developer;Node.js+Developer" />
-
-<p>
-<a href="https://portfolio-vivek-blue.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"/></a>
-<a href="https://www.linkedin.com/in/mrvivekrana/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/></a>
-<a href="mailto:vivekranaworks@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail"/></a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=realvivekrana&label=Profile+Views&color=0e75b6&style=flat"/>
+I build modern, scalable and production-ready web applications using the MERN Stack.
 
 </div>
 
 ---
 
-# 💫 About Me
+## 🚀 About Me
 
-Passionate **MERN Stack Developer** focused on building scalable, responsive and production-ready web applications.
-
-- 💻 MERN Stack Developer
-- 💼 Frontend Developer Intern @ Athenura
-- 🎓 MCA Student (AI & ML)
-- 🌱 Learning TypeScript, Next.js, Docker & AWS
-- 🚀 Open to Full-Time, Internship & Freelance Opportunities
+- 💼 Frontend Developer Intern at **Athenura**
+- 🎓 MCA (AI & ML)
+- 💻 Passionate about Full Stack Development
+- 🌱 Currently learning TypeScript, Next.js, Docker and AWS
+- 📚 Practicing DSA and System Design
+- 🤝 Open to Full-Time, Internship and Freelance opportunities
 
 ---
 
-# 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 ### Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap"/>
-</p>
+HTML5 • CSS3 • JavaScript (ES6+) • React.js • Tailwind CSS • Bootstrap
 
 ### Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
-</p>
+Node.js • Express.js • REST APIs • JWT Authentication
+
+### Database
+MongoDB • MongoDB Atlas
 
 ### Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vercel"/>
-</p>
+Git • GitHub • VS Code • Postman • npm • Vercel
 
-### Currently Learning
-<p>
-<img src="https://skillicons.dev/icons?i=typescript,nextjs,docker,aws"/>
-</p>
+### Learning
+TypeScript • Next.js • Docker • AWS
 
 ---
 
-# 🚀 Featured Project
+# 🛒 Featured Project
 
-## 🛒 Full Stack E-Commerce Platform
+## Full Stack E-Commerce Platform
 
-Production-ready MERN Stack E-Commerce application featuring authentication, product management, shopping cart, order management and admin dashboard.
+GitHub:
+https://github.com/realvivekrana/fullstack-ecommerce-app
 
-**Tech Stack:** React.js • Node.js • Express.js • MongoDB • JWT • Tailwind CSS
+### Highlights
 
-🔗 **Live Demo:** Coming Soon
-
-🔗 **GitHub:** https://github.com/realvivekrana/fullstack-ecommerce-app
-
-### Features
-
-- 🔐 JWT Authentication
-- 🛍️ Product Catalog
-- 🔍 Search & Filter
-- ❤️ Wishlist
-- 🛒 Shopping Cart
-- 💳 Checkout
-- 📦 Order Management
-- 👤 User Profile
-- 🛠️ Admin Dashboard
-- ➕ Product CRUD
-- 📱 Responsive Design
-- ⚡ REST API Integration
-
----
-
-# 💼 Experience
-
-## Frontend Developer Intern — Athenura
-**Feb 2026 – Present**
-
-- Developing scalable React applications
-- Building reusable UI components
-- Integrating REST APIs
-- Improving performance
-- Collaborating with development team
-
----
-
-## 🎓 MERN Stack Trainee — CETPA Infotech
-
-- React.js
-- Node.js
-- Express.js
-- MongoDB
+- Secure Authentication
+- Role-based Authorization
+- Product Management
+- Shopping Cart
+- Wishlist
+- Order Management
+- Admin Dashboard
 - REST APIs
-- Git & GitHub
+- Responsive UI
+- Clean Architecture
 
 ---
 
-# 📊 GitHub Stats
+## 💼 Experience
 
-<div align="center">
+### Frontend Developer Intern — Athenura
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=realvivekrana&show_icons=true&theme=tokyonight&hide_border=true"/>
+- Built reusable React components
+- Consumed REST APIs
+- Fixed UI/UX issues
+- Improved responsiveness
+- Collaborated using Git & GitHub
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realvivekrana&layout=compact&theme=tokyonight&hide_border=true"/>
+### MERN Stack Trainee — CETPA Infotech
 
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=realvivekrana&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📫 Connect With Me
-
-<div align="center">
-
-<a href="https://portfolio-vivek-blue.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"/></a>
-
-<a href="https://www.linkedin.com/in/mrvivekrana/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/></a>
-
-<a href="mailto:vivekranaworks@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail"/></a>
-
-<a href="https://github.com/realvivekrana"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/></a>
-
-</div>
+Completed hands-on training in React, Node.js, Express.js, MongoDB and Git.
 
 ---
 
-# 💡 Currently Working On
+## 📈 GitHub Analytics
 
-- 🛒 Full Stack E-Commerce Platform
-- ⚛️ Advanced React
-- 📘 TypeScript
-- ⚡ Next.js
-- 🐳 Docker
-- ☁️ AWS
-- 🧩 Data Structures & Algorithms
+```md
+GitHub Readme Stats
+Top Languages
+GitHub Streak
+```
+
+Use:
+
+- github-readme-stats
+- github-readme-streak-stats
+- profile views badge
 
 ---
 
-# 🎯 Looking For
+## 🎯 Current Focus
+
+- Building scalable MERN applications
+- Advanced React
+- Backend Architecture
+- Docker
+- AWS
+- DSA
+
+---
+
+## 📫 Connect
+
+- Portfolio: https://portfolio-vivek-blue.vercel.app/
+- LinkedIn: https://www.linkedin.com/in/mrvivekrana/
+- GitHub: https://github.com/realvivekrana
+- Email: vivekranaworks@gmail.com
+
+---
+
+## 🤝 Looking For
 
 - MERN Stack Developer
 - Full Stack Developer
-- React.js Developer
-- Node.js Developer
 - Software Engineer
-- Freelance Projects
-- Open Source Contributions
+- React Developer
+- Node.js Developer
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### Thanks for visiting!
 
-If you like my work, consider giving a ⭐ to my repositories.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
+⭐ If you like my work, consider starring my repositories.
 
 </div>
