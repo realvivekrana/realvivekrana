@@ -43,7 +43,7 @@
 # 👨‍💻 About Me
 
 * 💻 **MERN Stack Developer** focused on building full-stack web applications
-* 🎓 Pursuing **MCA in Artificial Intelligence & Machine Learning**
+* 🎓 **MCA in Artificial Intelligence & Machine Learning**
 * 🏢 Former **Frontend Developer Intern at Athenura**
 * 🚀 Passionate about **React.js, Node.js, REST APIs and MongoDB**
 * 🧩 Interested in **scalable backend architecture and clean code**
