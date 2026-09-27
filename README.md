@@ -25,7 +25,7 @@
 </p>
 
 <p>
-  <a href="https://portfolio-vivek-blue.vercel.app/">
+  <a href="https://my-portfolio-mern-mauve.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-203a43?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/mrvivekrana/">
@@ -42,14 +42,14 @@
 
 # 👨‍💻 About Me
 
-* 💻 **MERN Stack Developer** focused on building full-stack web applications
-* 🎓 **MCA in Artificial Intelligence & Machine Learning**
-* 🏢 Former **Frontend Developer Intern at Athenura**
-* 🚀 Passionate about **React.js, Node.js, REST APIs and MongoDB**
-* 🧩 Interested in **scalable backend architecture and clean code**
-* 📚 Currently improving **TypeScript, Next.js, Docker, AWS, DSA and System Design**
-* 🤝 Open to **Full-Time, Internship and Freelance opportunities**
-* 🌱 Always learning and building real-world projects
+- 💻 **MERN Stack Developer** focused on building full-stack web applications
+- 🎓 **MCA in Artificial Intelligence & Machine Learning**
+- 🏢 Former **Frontend Developer Intern at Athenura**
+- 🚀 Passionate about **React.js, Node.js, REST APIs and MongoDB**
+- 🧩 Interested in **scalable backend architecture and clean code**
+- 📚 Currently improving **TypeScript, Next.js, Docker, AWS, DSA and System Design**
+- 🤝 Open to **Full-Time, Internship and Freelance opportunities**
+- 🌱 Always learning and building real-world projects
 
 ---
 
@@ -105,16 +105,16 @@ A complete MERN-based e-commerce application designed with a scalable full-stack
 
 ### ✨ Key Features
 
-* 🔐 Secure Authentication
-* 🛡️ Role-Based Authorization
-* 📦 Product Management
-* 🛒 Shopping Cart
-* ❤️ Wishlist
-* 📋 Order Management
-* 👨‍💼 Admin Dashboard
-* 🔗 RESTful APIs
-* 📱 Responsive UI
-* 🧱 Clean & Modular Architecture
+- 🔐 Secure Authentication
+- 🛡️ Role-Based Authorization
+- 📦 Product Management
+- 🛒 Shopping Cart
+- ❤️ Wishlist
+- 📋 Order Management
+- 👨‍💼 Admin Dashboard
+- 🔗 RESTful APIs
+- 📱 Responsive UI
+- 🧱 Clean & Modular Architecture
 
 ### 🔗 Project Links
 
@@ -132,12 +132,12 @@ A full-stack quiz application built using React, Node.js, Express and MongoDB.
 
 ### ✨ Highlights
 
-* 📝 Interactive quizzes
-* 🔐 Authentication
-* 📊 Quiz results
-* ⚡ REST API integration
-* 📱 Responsive interface
-* 🌐 Full-stack MERN architecture
+- 📝 Interactive quizzes
+- 🔐 Authentication
+- 📊 Quiz results
+- ⚡ REST API integration
+- 📱 Responsive interface
+- 🌐 Full-stack MERN architecture
 
 ### 🔗 Live Project
 
@@ -155,17 +155,16 @@ A full-stack quiz application built using React, Node.js, Express and MongoDB.
 
 **Feb 2026 – May 2026**
 
-* Built reusable and maintainable **React components**
-* Integrated and consumed **REST APIs**
-* Worked on responsive and user-friendly interfaces
-* Fixed UI/UX issues across different screen sizes
-* Collaborated with developers using **Git & GitHub**
-* Worked on real-world web applications including:
-
-  * Lead Management System
-  * Music Portal Application
-  * Restaurant Application
-  * School Website
+- Built reusable and maintainable **React components**
+- Integrated and consumed **REST APIs**
+- Worked on responsive and user-friendly interfaces
+- Fixed UI/UX issues across different screen sizes
+- Collaborated with developers using **Git & GitHub**
+- Worked on real-world web applications including:
+  - Lead Management System
+  - Music Portal Application
+  - Restaurant Application
+  - School Website
 
 ---
 
@@ -173,14 +172,14 @@ A full-stack quiz application built using React, Node.js, Express and MongoDB.
 
 Completed hands-on training focused on:
 
-* React.js
-* JavaScript
-* Node.js
-* Express.js
-* MongoDB
-* REST APIs
-* Git & GitHub
-* Full Stack Application Development
+- React.js
+- JavaScript
+- Node.js
+- Express.js
+- MongoDB
+- REST APIs
+- Git & GitHub
+- Full Stack Application Development
 
 ---
 
@@ -228,100 +227,3 @@ Docker                     ████████░░░░░░░░░�
 AWS                        ███████░░░░░░░░░░░░░  Learning
 DSA                        ███████████░░░░░░░░░  Practicing
 System Design              ████████░░░░░░░░░░░░  Learning
-```
-
----
-
-# 🧩 What I Love Building
-
-```text
-🌐 Full Stack Web Applications
-🛒 E-Commerce Platforms
-📊 Admin Dashboards
-🔐 Authentication & Authorization Systems
-🔗 REST APIs
-⚡ Responsive React Interfaces
-🗄️ Database-driven Applications
-🚀 Scalable Backend Systems
-```
-
----
-
-# 📚 Learning Roadmap
-
-### Currently Working On
-
-* ⚛️ Advanced React.js
-* 🟦 TypeScript
-* ▲ Next.js
-* 🐳 Docker
-* ☁️ AWS Basics
-* 🧠 Data Structures & Algorithms
-* 🏗️ System Design
-* 🔥 Advanced Backend Development
-
-### Next Goals
-
-* Microservices
-* Redis
-* CI/CD
-* Cloud Deployment
-* Vector Databases
-* RAG Systems
-* LLM APIs
-* Prompt Engineering
-
----
-
-# 🤝 Open To Opportunities
-
-I'm currently open to opportunities as:
-
-* 💼 **MERN Stack Developer**
-* 🚀 **Full Stack Developer**
-* 👨‍💻 **Software Engineer**
-* ⚛️ **React Developer**
-* 🟢 **Node.js Developer**
-* 🌱 **Software Development Intern**
-
-If you're working on something interesting or have an opportunity that matches my skills, feel free to reach out.
-
----
-
-# 📫 Let's Connect
-
-<div align="center">
-
-<a href="https://portfolio-vivek-blue.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-203a43?style=for-the-badge" />
-</a>
-
-<a href="https://www.linkedin.com/in/mrvivekrana/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/realvivekrana">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="mailto:vivekranaworks@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 "Build. Learn. Improve. Repeat."
-
-<br/>
-
-⭐ **If you find my projects useful, consider giving them a star!**
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
-
-</div>
