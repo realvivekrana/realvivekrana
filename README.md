@@ -4,7 +4,7 @@
 
 <br/>
 
-# 👋 Hi, I'm Vivek Rana
+# 👋 Hi, I'm Vivek Kumar Rana
 
 ### 🚀 MERN Stack Developer | Full Stack Developer | React.js | Node.js
 
